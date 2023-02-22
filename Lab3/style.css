@@ -1,0 +1,10 @@
+.red_box
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-color: red;
+    margin: auto;
+   
+}
